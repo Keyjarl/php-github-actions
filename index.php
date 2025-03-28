@@ -1,6 +1,6 @@
 
 <?php
-function suma123($a, $b) {
+function suma($a, $b) {
     return $a + $b;
 }
 echo "Hola, se modificó GitHub Actions!";
